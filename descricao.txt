@@ -1,0 +1,12 @@
+1 vamos iniciar um projeto usando um npx -p typescript tsc --init 
+2 criar um arquivo index.html
+3 inserir o corpo do html
+4 inserir dois inputs
+5 inserir um buttom
+6 inserir um table row
+7 iserir table head
+8 iserir o tbody
+9 criar o arquivo script.ts
+10 importar o script.js lembrando que ele nao lera o ts so javaScript
+11 para transpilar o aquivo ts para js vamos usar: npx -p typescript tsc
+12 depois que nos ja temos essas informacaoes, vamos criar um crud patio
